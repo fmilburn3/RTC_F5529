@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For MCP3424
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+RTC_init
+RTC_stopCounter0
+RTC_startCounter0
+RTC_resetCounter0
+RTC_enableCounter0Interrupt
+RTC_disableCounter0Interrupt
+RTC_stopCounter1
+RTC_startCounter1
+RTC_resetCounter1
+RTC_enableCounter1Interrupt
+RTC_disableCounter1Interrupt
+RTC_setTime
+RTC_getSecond
+RTC_getMinute
+RTC_getHour
+RTC_getDayOfWeek
+RTC_getDay 
+RTC_getMonth
+RTC_getYear
+RTC_setAlarm
+RTC_enableAlarm
+RTC_disableAlarm
+RTC_enableInterrupt
+RTC_disableInterrupt
+RTC_enableRTCInterrupt
+RTC_disableRTCInterrupt
+RTC_setCalibration
+
+#######################################
+# Constants (LITERAL1)
+#######################################
